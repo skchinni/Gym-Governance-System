@@ -9,9 +9,6 @@ Login details for admin
 userid- admin1
 password - admin1
 
-
-
-Sample user details only
-userid - 1529336794
-name- Christiana Mayberry
-email- christiani@gmail.com
+Required:
+Xampp Control panel
+VS Code
